@@ -1,3 +1,3 @@
-module github.com/uia-worker/is105sem03
+module github.com/RebekkaBroderstad/is105sem03/mycrypt
 
 go 1.19
